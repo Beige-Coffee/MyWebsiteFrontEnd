@@ -1,0 +1,16 @@
+.sidebar .block-container {
+    width: 20px; /* Adjust this value to set the desired width */
+}
+
+/* Center the image caption */
+.image-container img + .caption {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Center the text in the center column */
+.st-ck {
+    text-align: center;
+}
